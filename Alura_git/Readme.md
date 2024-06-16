@@ -1,6 +1,3 @@
-Claro, aqui está um arquivo em Markdown com os principais comandos do Git e suas explicações:
-
-```markdown
 # Principais Comandos do Git
 
 ## Configuração Inicial
@@ -122,3 +119,7 @@ Claro, aqui está um arquivo em Markdown com os principais comandos do Git e sua
 
 - **git help <comando>**  
   Mostra a documentação de ajuda para um comando específico.
+
+---
+
+Esses são alguns dos principais comandos do Git que você usará com frequência ao trabalhar com controle de versão. Lembre-se de consultar a documentação oficial do Git para detalhes adicionais e opções avançadas.
